@@ -1,0 +1,11 @@
+## Python_root Ignore File ##
+*.log
+*.bak
+/img
+*.exe
+*.png
+*.jpg
+*.xls
+*.xlsx
+*.csv
+TEST/
